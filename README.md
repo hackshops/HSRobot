@@ -20,3 +20,18 @@ The key components used in HSRobot are:
 ## HSRobot Wiring Diagram
 
 ![HSRobot Wiring Diagram](https://github.com/hackshops/HSRobot/blob/main/images/HSRobot-Wiring-Digram.png)
+
+The GPIO Pins used in this project are:
+- Pin 18 - Control Left Motors (High to run motors; Low to stop motors)
+- Pin 14 and 15 - Control the direction of motors
+- Pin 25 - Control Right Motors (High to run motors; Low to stop motors)
+- Pin 23 and 24 - Control the direction of motors
+
+## How to Use
+| Action | GPIO Pin Value |
+|-----------|------------|
+| Turn Left Motors Forward | 18 High, 14 Low, 15 High | 
+| Turn Left Motors Backward | 18 High, 14 High, 15 Low | 
+| Turn Right Motors Forward | 25 High, 23 Low, 24 High | 
+| Turn Right Motors Backward | 25 High, 23 High, 24 Low | 
+| Stop Motors | 18 Low, 14 Low, 15 Low, 25 Low, 23 Low, 24 Low |
