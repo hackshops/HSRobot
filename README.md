@@ -19,4 +19,4 @@ The key components used in HSRobot are:
 
 ## HSRobot Wiring Diagram
 
-![HSRobot Wiring Diagram](https://raw.githubusercontent.com/HackShops/HSRobot/main/images/HSRobot-Wiring-Diagram.png)
+![HSRobot Wiring Diagram](https://github.com/hackshops/HSRobot/blob/main/images/HSRobot-Wiring-Digram.png)
