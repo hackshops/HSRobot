@@ -27,7 +27,7 @@ The GPIO Pins used in this project are:
 - Pin 25 - Control Right Motors (High to run motors; Low to stop motors)
 - Pin 23 and 24 - Control the direction of motors
 
-## How to Use
+## How to Use GPIO Pins to control the motors
 | Action | GPIO Pin Value |
 |-----------|------------|
 | Turn Left Motors Forward | 18 High, 14 Low, 15 High | 
@@ -35,3 +35,8 @@ The GPIO Pins used in this project are:
 | Turn Right Motors Forward | 25 High, 23 Low, 24 High | 
 | Turn Right Motors Backward | 25 High, 23 High, 24 Low | 
 | Stop Motors | 18 Low, 14 Low, 15 Low, 25 Low, 23 Low, 24 Low |
+
+# I got a HackShops Robot Kit! What do I do next? 
+Congratulations! HSRobot is a programmn platform and you will have endless fun learning programming.
+
+Follow the [Getting Started Guide](https://github.com/hackshops/HSRobot/blob/main/GettingStarted.md) to get started. 
