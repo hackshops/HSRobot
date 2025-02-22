@@ -24,7 +24,7 @@ You will need to connect HSRobot to a network (wired or wireless) that your comp
 
     ![HSRobot Create Hotspot Menu](https://github.com/hackshops/HSRobot/blob/main/images/HotspotCreateNew.png)
 
-5. The Hotspot is now created. Before you can successfully connect to it, you'll need to configure a few additional settings to ensure the hotspot setup is permanent. Access the menu again and select `Edit Connection` option.
+5. The Hotspot is now created. Before you can successfully connect to it, you'll need to configure a few additional settings to ensure the hotspot setup is permanent. Access the menu again and select `Edit Connections...` option.
 
     ![HSRobot Connection Menu](https://github.com/hackshops/HSRobot/blob/main/images/HotspotCreateMenu.png)
 
@@ -36,14 +36,12 @@ You will need to connect HSRobot to a network (wired or wireless) that your comp
 
     ![HSRobot Connection Menu](https://github.com/hackshops/HSRobot/blob/main/images/HotspotWifiAssignToMacAddr.png)
 
-8. In the `Device` dropdown option make sure you select `wlan0` witht the MAC address. 
-9. Next, let's make the hotspot permanent. Select the `General` table and check the option `Connect automatically with priority` as shown below.
+8. In the `Device` dropdown option make sure you select `wlan0` with the MAC address. 
+9. Next, let's make the hotspot permanent. Select the `General` tab and check the option `Connect automatically with priority` as shown below.
 
     ![HSRobot Connection Menu](https://github.com/hackshops/HSRobot/blob/main/images/HotspotAutoConnectConfig.png)
 
-10. Next, let's assign a known IP address to HSRobot so you can easily remember the IP Address to connect to. Select the `IPV4 Settings` tab. Click the 'Add' button on the left and set the IP address to `10.99.50.1`. 
-
-NOTE: The last 3 numbers after `10.99.` should match the HSRobot number. If your HSRobot is 501, then set this value to `50.1`. This is just a convention.
+10. Next, let's assign a known IP address to HSRobot so you can easily remember the IP Address to connect to. Select the `IPV4 Settings` tab. Click the 'Add' button on the left and set the IP address to `10.99.50.1`. NOTE: The last 3 numbers after `10.99.` should match the HSRobot number. If your HSRobot is 501, then set this value to `50.1`. This is just a convention.
 
     ![HSRobot Connection Menu](https://github.com/hackshops/HSRobot/blob/main/images/HotspotIPAddressConfig.png)
 
