@@ -7,6 +7,10 @@ HSRobot takes a different approach. The lessons learned while running a local Gi
 
 [Raspberry Pi](https://www.raspberrypi.org/) is a powerful and cheap computer that comes with everything you need to learn programming. The ability to interface with hardware and interact with it via programming makes it easier to understand programming concepts.
 
+![HS Robot](https://github.com/hackshops/HSRobot/blob/main/images/HSRobotSideView.png)
+
+![HS Robot](https://github.com/hackshops/HSRobot/blob/main/images/HSRobotTopView.png)
+
 The key components used in HSRobot are:
 - [4WD Smart Robbot Car](https://www.digikey.com/en/products/detail/seeed-technology-co-ltd/110090263/10290284)
 - [Raspberry Pi](https://www.raspberrypi.org/)
